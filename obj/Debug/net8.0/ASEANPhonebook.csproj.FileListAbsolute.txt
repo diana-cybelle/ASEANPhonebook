@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\bin\Debug\net8.0\ASEANPhonebook.exe
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\bin\Debug\net8.0\ASEANPhonebook.deps.json
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\bin\Debug\net8.0\ASEANPhonebook.runtimeconfig.json
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\bin\Debug\net8.0\ASEANPhonebook.dll
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\bin\Debug\net8.0\ASEANPhonebook.pdb
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ASEANPhonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ASEANPhonebook.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ASEANPhonebook.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ASEANPhonebook.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ASEANPhonebook.dll
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\refint\ASEANPhonebook.dll
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ASEANPhonebook.pdb
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ASEANPhonebook.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\ASEANPhonebook_Project\ASEANPhonebook_Project\obj\Debug\net8.0\ref\ASEANPhonebook.dll
